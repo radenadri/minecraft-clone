@@ -1,13 +1,34 @@
-- [] Boilerplate
-- [] Sky
-- [] Textures and images
-- [] Ground
-- [] Player
-- [] First person view
-- [] Gravity
-- [] Movement
-- [] State management
-- [] Cubes
-- [] Cube type selector
-- [] Save world in localstorage
-- [] Build a house
+- [x] Boilerplate
+- [x] Sky
+- [x] Textures and images
+- [x] Ground
+- [x] Keyboard Inputs
+- [x] Player
+- [x] First person view
+- [x] Gravity
+- [x] Movement
+- [x] State management
+- [x] Cubes
+- [x] Adding cubes
+- [x] Removing cubes
+- [x] Cube type selector
+- [x] Save world in localstorage
+- [x] Hover state on cubes
+- [x] Build a house
+
+⭐️ Contents ⭐️
+- ⌨️ (0:00:00) Boilerplate
+- ⌨️ (0:03:56) Sky
+- ⌨️ (0:05:46) Textures
+- ⌨️ (0:07:48) GroundWW
+- ⌨️ (0:15:11) Player
+- ⌨️ (0:25:43) Keyboard input
+- ⌨️ (0:32:03) Movement
+- ⌨️ (0:41:26) First person camera
+- ⌨️ (0:46:25) State management
+- ⌨️ (0:49:55) Cube component
+- ⌨️ (0:58:02) Add/Remove Cubes
+- ⌨️ (1:09:34) Texture Selector
+- ⌨️ (1:21:34) Save world
+- ⌨️ (1:27:31) Hover cubes
+- ⌨️ (1:30:28) Outro
